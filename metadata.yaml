@@ -1,5 +1,5 @@
 _repo: Amelia-Volume-3_6097
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -34,5 +34,6 @@ subjects:
 - !lcsh 'England -- Fiction'
 - !lcsh 'Didactic fiction'
 - !lcsh 'Married women -- Fiction'
+- GITenberg
 title: Amelia — Volume 3
 url: http://www.gutenberg.org/ebooks/6097
